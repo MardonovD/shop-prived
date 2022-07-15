@@ -21,3 +21,4 @@ export const { increment, decrement } = counterSlice.actions;
 export default counterSlice.reducers;
 //doston
 //mardonov
+//muslim
