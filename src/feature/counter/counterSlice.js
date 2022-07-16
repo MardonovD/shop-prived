@@ -22,3 +22,4 @@ export default counterSlice.reducers;
 //doston
 //mardonov
 //muslim
+//Jahongir
