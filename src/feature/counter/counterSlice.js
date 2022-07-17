@@ -23,3 +23,4 @@ export default counterSlice.reducers;
 //mardonov
 //muslim
 //Jahongir
+//Murod
