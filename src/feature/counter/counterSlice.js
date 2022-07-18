@@ -24,3 +24,4 @@ export default counterSlice.reducers;
 //muslim
 //Jahongir
 //Murod
+//Orzi keldi
