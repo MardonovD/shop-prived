@@ -1,7 +1,7 @@
-import CounterSlice from "./feature/counter/counterSlice";
+// import CounterSlice from "./feature/counter/counterSlice";
 
-function App() {
-  return <div className="App">App</div>;
-}
+// function App() {
+//   return <div className="App">App</div>;
+// }
 
-export default App;
+//export default App;

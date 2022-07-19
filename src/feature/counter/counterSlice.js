@@ -15,7 +15,7 @@ export const counterSlice = createSlice({
       state.count -= 1;
     },
   },
-});
+});95
 
 export const { increment, decrement } = counterSlice.actions;
 export default counterSlice.reducers;
@@ -25,3 +25,4 @@ export default counterSlice.reducers;
 //Jahongir
 //Murod
 //Orzi keldi
+// 95 512 70 12
