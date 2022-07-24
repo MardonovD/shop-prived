@@ -7,3 +7,4 @@
 //export default App;
 //export default doston;
 //export default index;
+//export default counter;
